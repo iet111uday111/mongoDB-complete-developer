@@ -118,3 +118,6 @@ Welcome to MongoDB!
 #### Closer Look on Data Layer of MongoDB
 ![Screenshot](./Screenshots/Screenshot7.png?raw=true "Screenshot")
 
+#### MongoDB Topics
+![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
+
