@@ -127,3 +127,6 @@ Welcome to MongoDB!
 #### CRUD Operation and MongoDB
 ![Screenshot](./Screenshots/Screenshot10.png?raw=true "Screenshot")
 
+#### CRUD Queries
+![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
+
