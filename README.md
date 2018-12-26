@@ -115,3 +115,6 @@ Welcome to MongoDB!
 #### Working With MongoDB
 ![Screenshot](./Screenshots/Screenshot6.png?raw=true "Screenshot")
 
+#### CLoser Look on Data Layer of MongoDB
+![Screenshot](./Screenshots/Screenshot7.png?raw=true "Screenshot")
+
