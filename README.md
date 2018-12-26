@@ -142,3 +142,6 @@ Welcome to MongoDB!
 #### find & findOne
 ![Screenshot](./Screenshots/Screenshot15.png?raw=true "Screenshot")
 
+#### Update, UpdateOne & UpdateMany
+![Screenshot](./Screenshots/Screenshot16.png?raw=true "Screenshot")
+
