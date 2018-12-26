@@ -139,3 +139,6 @@ Welcome to MongoDB!
 #### Insert Many
 ![Screenshot](./Screenshots/Screenshot14.png?raw=true "Screenshot")
 
+#### find & findOne
+![Screenshot](./Screenshots/Screenshot15.png?raw=true "Screenshot")
+
