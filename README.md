@@ -99,3 +99,6 @@ Welcome to MongoDB!
 #### What is MongoDB
 ![Screenshot](./Screenshots/Screenshot1.png?raw=true "Screenshot")
 
+#### How it Works
+![Screenshot](./Screenshots/Screenshot2.png?raw=true "Screenshot")
+
