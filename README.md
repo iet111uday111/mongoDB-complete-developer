@@ -158,3 +158,6 @@ Welcome to MongoDB!
 
 #### Projection
 ![Screenshot](./Screenshots/Screenshot21.png?raw=true "Screenshot")
+
+![Screenshot](./Screenshots/Screenshot22.png?raw=true "Screenshot")
+
