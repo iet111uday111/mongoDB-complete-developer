@@ -121,3 +121,6 @@ Welcome to MongoDB!
 #### MongoDB Topics
 ![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
 
+#### Databases, Collections, Documents
+![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
+
