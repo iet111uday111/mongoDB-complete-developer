@@ -136,3 +136,6 @@ Welcome to MongoDB!
 #### Delete Many
 ![Screenshot](./Screenshots/Screenshot13.png?raw=true "Screenshot")
 
+#### Insert Many
+![Screenshot](./Screenshots/Screenshot14.png?raw=true "Screenshot")
+
