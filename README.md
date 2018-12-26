@@ -106,3 +106,6 @@ Welcome to MongoDB!
 #### JSON(BSON) Data Format
 ![Screenshot](./Screenshots/Screenshot3.png?raw=true "Screenshot")
 
+#### Relations
+![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
+
