@@ -170,3 +170,9 @@ Welcome to MongoDB!
 #### Example of Embedded Document
 ![Screenshot](./Screenshots/Screenshot25.png?raw=true "Screenshot")
 
+#### Accessing Array Data from a document
+![Screenshot](./Screenshots/Screenshot26.png?raw=true "Screenshot")
+
+#### Accessing Object Data from a document
+![Screenshot](./Screenshots/Screenshot27.png?raw=true "Screenshot")
+
