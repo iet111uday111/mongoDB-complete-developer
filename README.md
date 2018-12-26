@@ -176,3 +176,5 @@ Welcome to MongoDB!
 #### Accessing Object Data from a document
 ![Screenshot](./Screenshots/Screenshot27.png?raw=true "Screenshot")
 
+#### Summary of CRUD Operation in Mongo
+![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
