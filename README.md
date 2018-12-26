@@ -145,3 +145,7 @@ Welcome to MongoDB!
 #### Update, UpdateOne & UpdateMany
 ![Screenshot](./Screenshots/Screenshot16.png?raw=true "Screenshot")
 
+![Screenshot](./Screenshots/Screenshot17.png?raw=true "Screenshot")
+
+#### replaceOne
+![Screenshot](./Screenshots/Screenshot18.png?raw=true "Screenshot")
