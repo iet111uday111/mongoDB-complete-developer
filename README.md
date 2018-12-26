@@ -161,3 +161,9 @@ Welcome to MongoDB!
 
 ![Screenshot](./Screenshots/Screenshot22.png?raw=true "Screenshot")
 
+#### Embedded Document
+![Screenshot](./Screenshots/Screenshot23.png?raw=true "Screenshot")
+
+#### Array of Embedded Document
+![Screenshot](./Screenshots/Screenshot24.png?raw=true "Screenshot")
+
