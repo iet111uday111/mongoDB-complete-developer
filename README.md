@@ -150,8 +150,11 @@ Welcome to MongoDB!
 #### replaceOne
 ![Screenshot](./Screenshots/Screenshot18.png?raw=true "Screenshot")
 
-#### ForEch with find
-![Screenshot](./Screenshots/Screenshot18.png?raw=true "Screenshot")
+#### ForEach with find
+![Screenshot](./Screenshots/Screenshot19.png?raw=true "Screenshot")
 
 #### toArray with find
-![Screenshot](./Screenshots/Screenshot18.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot20.png?raw=true "Screenshot")
+
+#### Projection
+![Screenshot](./Screenshots/Screenshot21.png?raw=true "Screenshot")
