@@ -102,3 +102,7 @@ Welcome to MongoDB!
 #### How it Works
 ![Screenshot](./Screenshots/Screenshot2.png?raw=true "Screenshot")
 
+
+#### JSON(BSON) Data Format
+![Screenshot](./Screenshots/Screenshot3.png?raw=true "Screenshot")
+
