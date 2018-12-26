@@ -109,3 +109,6 @@ Welcome to MongoDB!
 #### Relations
 ![Screenshot](./Screenshots/Screenshot4.png?raw=true "Screenshot")
 
+#### MongoDB Ecosystem
+![Screenshot](./Screenshots/Screenshot5.png?raw=true "Screenshot")
+
