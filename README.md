@@ -131,5 +131,8 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
 
 #### Flight Data Example1
-![Screenshot](./Screenshots/Screenshot11.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot12.png?raw=true "Screenshot")
+
+#### Delete Many
+![Screenshot](./Screenshots/Screenshot13.png?raw=true "Screenshot")
 
