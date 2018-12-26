@@ -122,5 +122,5 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
 
 #### Databases, Collections, Documents
-![Screenshot](./Screenshots/Screenshot8.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot9.png?raw=true "Screenshot")
 
