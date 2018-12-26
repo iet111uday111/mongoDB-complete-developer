@@ -112,3 +112,6 @@ Welcome to MongoDB!
 #### MongoDB Ecosystem
 ![Screenshot](./Screenshots/Screenshot5.png?raw=true "Screenshot")
 
+#### Working With MongoDB
+![Screenshot](./Screenshots/Screenshot6.png?raw=true "Screenshot")
+
