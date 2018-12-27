@@ -180,4 +180,7 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
 
 #### SchemaLess or Not!
-![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot29.png?raw=true "Screenshot")
+
+#### To Schema or Not to schema!
+![Screenshot](./Screenshots/Screenshot30.png?raw=true "Screenshot")
