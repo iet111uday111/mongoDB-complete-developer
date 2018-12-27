@@ -193,3 +193,6 @@ Welcome to MongoDB!
 
 #### Creting a Document with special commands
 ![Screenshot](./Screenshots/Screenshot33.png?raw=true "Screenshot")
+
+#### Data Schema and Data Modelling
+![Screenshot](./Screenshots/Screenshot34.png?raw=true "Screenshot")
