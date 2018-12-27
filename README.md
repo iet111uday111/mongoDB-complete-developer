@@ -257,3 +257,9 @@ Welcome to MongoDB!
 #### Schema Validation Error 
 ![Screenshot](./Screenshots/Screenshot54.png?raw=true "Screenshot")
 
+#### Data Modelling and Structure - Things to Consider
+![Screenshot](./Screenshots/Screenshot55.png?raw=true "Screenshot")
+
+#### Modeling a Schema and Database
+![Screenshot](./Screenshots/Screenshot56.png?raw=true "Screenshot")
+
