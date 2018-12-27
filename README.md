@@ -227,3 +227,9 @@ Welcome to MongoDB!
 #### Many to Many Relation - Customers products Embedded Driven Approach
 ![Screenshot](./Screenshots/Screenshot44.png?raw=true "Screenshot")
 
+#### Many to Many Relation - Book Author Refrence Driven Approach
+![Screenshot](./Screenshots/Screenshot45.png?raw=true "Screenshot")
+
+#### Many to Many Relation - Book Author Refrence Driven Approach Query
+![Screenshot](./Screenshots/Screenshot45.png?raw=true "Screenshot")
+
