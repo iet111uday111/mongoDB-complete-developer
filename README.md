@@ -178,3 +178,6 @@ Welcome to MongoDB!
 
 #### Summary of CRUD Operation in Mongo
 ![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")
+
+#### SchemaLess or Not!
+![Screenshot](./Screenshots/Screenshot28.png?raw=true "Screenshot")

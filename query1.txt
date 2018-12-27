@@ -1,0 +1,5 @@
+MongoDB shell version: 3.2.13
+connecting to: test
+> use[3G[Jus[5G[3G[Ju[4G[3G[J[3Guse shop[3G[Juse shop[11G
+switched to db shop
+> 
