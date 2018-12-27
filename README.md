@@ -248,3 +248,9 @@ Welcome to MongoDB!
 #### Blog Rough Schema Design
 ![Screenshot](./Screenshots/Screenshot51.png?raw=true "Screenshot")
 
+#### Schema Validation
+![Screenshot](./Screenshots/Screenshot52.png?raw=true "Screenshot")
+
+#### Level of Schema Validation
+![Screenshot](./Screenshots/Screenshot53.png?raw=true "Screenshot")
+
