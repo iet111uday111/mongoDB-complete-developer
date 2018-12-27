@@ -196,3 +196,6 @@ Welcome to MongoDB!
 
 #### Data Schema and Data Modelling
 ![Screenshot](./Screenshots/Screenshot34.png?raw=true "Screenshot")
+
+#### Relations
+![Screenshot](./Screenshots/Screenshot35.png?raw=true "Screenshot")
