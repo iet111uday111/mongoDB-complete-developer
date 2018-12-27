@@ -240,5 +240,11 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot48.png?raw=true "Screenshot")
 
 #### $lookup & $unwind - Aggregate Function Query
-![Screenshot](./Screenshots/Screenshot48.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot49.png?raw=true "Screenshot")
+
+#### Blog Project 
+![Screenshot](./Screenshots/Screenshot50.png?raw=true "Screenshot")
+
+#### Blog Rough Schema Design
+![Screenshot](./Screenshots/Screenshot51.png?raw=true "Screenshot")
 
