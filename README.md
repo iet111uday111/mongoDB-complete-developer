@@ -236,3 +236,9 @@ Welcome to MongoDB!
 #### Relation Options
 ![Screenshot](./Screenshots/Screenshot47.png?raw=true "Screenshot")
 
+#### $lookup - Aggregate Function
+![Screenshot](./Screenshots/Screenshot48.png?raw=true "Screenshot")
+
+#### $lookup & $unwind - Aggregate Function Query
+![Screenshot](./Screenshots/Screenshot48.png?raw=true "Screenshot")
+
