@@ -254,3 +254,6 @@ Welcome to MongoDB!
 #### Level of Schema Validation
 ![Screenshot](./Screenshots/Screenshot53.png?raw=true "Screenshot")
 
+#### Schema Validation Error 
+![Screenshot](./Screenshots/Screenshot54.png?raw=true "Screenshot")
+
