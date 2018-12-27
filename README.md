@@ -199,3 +199,10 @@ Welcome to MongoDB!
 
 #### Relations
 ![Screenshot](./Screenshots/Screenshot35.png?raw=true "Screenshot")
+
+#### One to One Relation - Patient Disease Summary Embeeded Document
+![Screenshot](./Screenshots/Screenshot36.png?raw=true "Screenshot")
+
+#### One to One Relation - Patient Disease Summary Refrence Document
+![Screenshot](./Screenshots/Screenshot37.png?raw=true "Screenshot")
+
