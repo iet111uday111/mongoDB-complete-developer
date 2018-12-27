@@ -187,3 +187,6 @@ Welcome to MongoDB!
 
 #### SQL Like Approach
 ![Screenshot](./Screenshots/Screenshot31.png?raw=true "Screenshot")
+
+#### Data Types
+![Screenshot](./Screenshots/Screenshot32.png?raw=true "Screenshot")
