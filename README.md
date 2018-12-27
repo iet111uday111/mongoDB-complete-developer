@@ -209,6 +209,12 @@ Welcome to MongoDB!
 #### One to Many Relation - Thread Answer
 ![Screenshot](./Screenshots/Screenshot38.png?raw=true "Screenshot")
 
-#### One to Many Relation - Thread Answer Embeeded Document Query
+#### One to Many Relation - Thread Answer Embeeded Document Query 
 ![Screenshot](./Screenshots/Screenshot39.png?raw=true "Screenshot")
+
+#### One to Many Relation - City Person Refrence Document
+![Screenshot](./Screenshots/Screenshot40.png?raw=true "Screenshot")
+
+#### One to Many Relation - City Person Refrence Document Query
+![Screenshot](./Screenshots/Screenshot41.png?raw=true "Screenshot")
 
