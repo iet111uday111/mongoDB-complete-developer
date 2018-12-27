@@ -190,3 +190,6 @@ Welcome to MongoDB!
 
 #### Data Types
 ![Screenshot](./Screenshots/Screenshot32.png?raw=true "Screenshot")
+
+#### Creting a Document with special commands
+![Screenshot](./Screenshots/Screenshot33.png?raw=true "Screenshot")
