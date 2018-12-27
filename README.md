@@ -206,3 +206,9 @@ Welcome to MongoDB!
 #### One to One Relation - Patient Disease Summary Refrence Document
 ![Screenshot](./Screenshots/Screenshot37.png?raw=true "Screenshot")
 
+#### One to Many Relation - Thread Answer
+![Screenshot](./Screenshots/Screenshot38.png?raw=true "Screenshot")
+
+#### One to Many Relation - Thread Answer Embeeded Document Query
+![Screenshot](./Screenshots/Screenshot39.png?raw=true "Screenshot")
+
