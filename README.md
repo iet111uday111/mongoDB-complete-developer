@@ -231,5 +231,8 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot45.png?raw=true "Screenshot")
 
 #### Many to Many Relation - Book Author Refrence Driven Approach Query
-![Screenshot](./Screenshots/Screenshot45.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot46.png?raw=true "Screenshot")
+
+#### Relation Options
+![Screenshot](./Screenshots/Screenshot47.png?raw=true "Screenshot")
 
