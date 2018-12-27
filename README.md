@@ -218,3 +218,12 @@ Welcome to MongoDB!
 #### One to Many Relation - City Person Refrence Document Query
 ![Screenshot](./Screenshots/Screenshot41.png?raw=true "Screenshot")
 
+#### Many to Many Relation - Customers products 
+![Screenshot](./Screenshots/Screenshot42.png?raw=true "Screenshot")
+
+#### Many to Many Relation - Customers products Refrence Driven Approach
+![Screenshot](./Screenshots/Screenshot43.png?raw=true "Screenshot")
+
+#### Many to Many Relation - Customers products Embedded Driven Approach
+![Screenshot](./Screenshots/Screenshot44.png?raw=true "Screenshot")
+
