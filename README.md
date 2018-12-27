@@ -184,3 +184,6 @@ Welcome to MongoDB!
 
 #### To Schema or Not to schema!
 ![Screenshot](./Screenshots/Screenshot30.png?raw=true "Screenshot")
+
+#### SQL Like Approach
+![Screenshot](./Screenshots/Screenshot31.png?raw=true "Screenshot")
