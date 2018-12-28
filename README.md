@@ -275,3 +275,6 @@ Welcome to MongoDB!
 #### Setting Config File
 ![Screenshot](./Screenshots/Screenshot60.png?raw=true "Screenshot")
 
+#### Help Command
+![Screenshot](./Screenshots/Screenshot60.png?raw=true "Screenshot")
+
