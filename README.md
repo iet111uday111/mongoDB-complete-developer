@@ -263,3 +263,12 @@ Welcome to MongoDB!
 #### Modeling a Schema and Database
 ![Screenshot](./Screenshots/Screenshot56.png?raw=true "Screenshot")
 
+#### mongod --help
+![Screenshot](./Screenshots/Screenshot57.png?raw=true "Screenshot")
+
+#### For setting database path
+![Screenshot](./Screenshots/Screenshot58.png?raw=true "Screenshot")
+
+#### For setting log path
+![Screenshot](./Screenshots/Screenshot59.png?raw=true "Screenshot")
+
