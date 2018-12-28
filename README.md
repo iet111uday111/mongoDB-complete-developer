@@ -276,5 +276,11 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot60.png?raw=true "Screenshot")
 
 #### Help Command
-![Screenshot](./Screenshots/Screenshot60.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot61.png?raw=true "Screenshot")
+
+#### DB Help Command
+![Screenshot](./Screenshots/Screenshot62.png?raw=true "Screenshot")
+
+#### Collection Help Command
+![Screenshot](./Screenshots/Screenshot63.png?raw=true "Screenshot")
 
