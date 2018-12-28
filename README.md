@@ -284,3 +284,7 @@ Welcome to MongoDB!
 #### Collection Help Command
 ![Screenshot](./Screenshots/Screenshot63.png?raw=true "Screenshot")
 
+#### Create Document
+![Screenshot](./Screenshots/Screenshot63.png?raw=true "Screenshot")
+
+
