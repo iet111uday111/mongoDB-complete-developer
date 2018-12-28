@@ -272,3 +272,6 @@ Welcome to MongoDB!
 #### For setting log path
 ![Screenshot](./Screenshots/Screenshot59.png?raw=true "Screenshot")
 
+#### Setting Config File
+![Screenshot](./Screenshots/Screenshot60.png?raw=true "Screenshot")
+
