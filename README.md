@@ -285,6 +285,9 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot63.png?raw=true "Screenshot")
 
 #### Create Document
-![Screenshot](./Screenshots/Screenshot63.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot64.png?raw=true "Screenshot")
+
+#### Write Concern
+![Screenshot](./Screenshots/Screenshot65.png?raw=true "Screenshot")
 
 
