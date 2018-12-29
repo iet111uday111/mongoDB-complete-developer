@@ -296,3 +296,6 @@ Welcome to MongoDB!
 #### Atomicity
 ![Screenshot](./Screenshots/Screenshot67.png?raw=true "Screenshot")
 
+#### Write Operation Summary
+![Screenshot](./Screenshots/Screenshot67.png?raw=true "Screenshot")
+
