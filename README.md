@@ -297,5 +297,8 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot67.png?raw=true "Screenshot")
 
 #### Write Operation Summary
-![Screenshot](./Screenshots/Screenshot67.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot68.png?raw=true "Screenshot")
+
+#### Reading DataSets Terms
+![Screenshot](./Screenshots/Screenshot69.png?raw=true "Screenshot")
 
