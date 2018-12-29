@@ -290,4 +290,7 @@ Welcome to MongoDB!
 #### Write Concern
 ![Screenshot](./Screenshots/Screenshot65.png?raw=true "Screenshot")
 
+#### Write Concern Queries
+![Screenshot](./Screenshots/Screenshot66.png?raw=true "Screenshot")
+
 
