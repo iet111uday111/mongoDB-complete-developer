@@ -293,4 +293,6 @@ Welcome to MongoDB!
 #### Write Concern Queries
 ![Screenshot](./Screenshots/Screenshot66.png?raw=true "Screenshot")
 
+#### Atomicity
+![Screenshot](./Screenshots/Screenshot67.png?raw=true "Screenshot")
 
