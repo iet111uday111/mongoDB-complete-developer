@@ -349,3 +349,6 @@ Welcome to MongoDB!
 
 #### Why there is need of $and Operator
 ![Screenshot](./Screenshots/Screenshot85.png?raw=true "Screenshot")
+
+#### $not Operator
+![Screenshot](./Screenshots/Screenshot86.png?raw=true "Screenshot")
