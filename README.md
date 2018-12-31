@@ -386,3 +386,6 @@ Welcome to MongoDB!
 #### Querying Array - $elemMatch operator
 ![Screenshot](./Screenshots/Screenshot97.png?raw=true "Screenshot")
 
+#### Cursors
+![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
+
