@@ -389,3 +389,8 @@ Welcome to MongoDB!
 #### Cursors
 ![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
 
+#### Operating with Cursors
+![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
+
+#### Operating with Cursors
+![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
