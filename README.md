@@ -364,3 +364,6 @@ Welcome to MongoDB!
 
 #### $type operator multiple type
 ![Screenshot](./Screenshots/Screenshot90.png?raw=true "Screenshot")
+
+#### $regex
+![Screenshot](./Screenshots/Screenshot91.png?raw=true "Screenshot")
