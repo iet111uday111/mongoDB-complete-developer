@@ -378,8 +378,8 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot94.png?raw=true "Screenshot")
 
 #### Querying Array - $size operator
-![Screenshot](./Screenshots/Screenshot94.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot95.png?raw=true "Screenshot")
 
 #### Querying Array - $all operator
-![Screenshot](./Screenshots/Screenshot95.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot96.png?raw=true "Screenshot")
 
