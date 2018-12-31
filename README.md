@@ -374,6 +374,9 @@ Welcome to MongoDB!
 #### Complex Querie with $expr 
 ![Screenshot](./Screenshots/Screenshot93.png?raw=true "Screenshot")
 
-#### Queries Array as Embedded Document  
+#### Querying Array as Embedded Document  
+![Screenshot](./Screenshots/Screenshot94.png?raw=true "Screenshot")
+
+#### Querying Array - $size operator
 ![Screenshot](./Screenshots/Screenshot94.png?raw=true "Screenshot")
 
