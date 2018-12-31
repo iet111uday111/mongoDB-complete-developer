@@ -352,3 +352,6 @@ Welcome to MongoDB!
 
 #### $not Operator
 ![Screenshot](./Screenshots/Screenshot86.png?raw=true "Screenshot")
+
+#### $exists Operator
+![Screenshot](./Screenshots/Screenshot86.png?raw=true "Screenshot")
