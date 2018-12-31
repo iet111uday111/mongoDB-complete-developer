@@ -390,7 +390,16 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
 
 #### Operating with Cursors
-![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot99.png?raw=true "Screenshot")
 
 #### Operating with Cursors
-![Screenshot](./Screenshots/Screenshot98.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot100.png?raw=true "Screenshot")
+
+#### Operating with Cursors - Sorting
+![Screenshot](./Screenshots/Screenshot101.png?raw=true "Screenshot")
+
+#### Operating with Cursors - Multiple Sorting
+![Screenshot](./Screenshots/Screenshot101.png?raw=true "Screenshot")
+
+#### Operating with Cursors - Skipping  Limiting Cursor Results
+![Screenshot](./Screenshots/Screenshot101.png?raw=true "Screenshot")
