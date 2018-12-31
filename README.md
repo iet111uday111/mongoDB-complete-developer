@@ -331,3 +331,9 @@ Welcome to MongoDB!
 
 #### Querying Embedded Array Exact
 ![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
+
+#### $in Operator
+![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
+
+#### $nin Operator
+![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
