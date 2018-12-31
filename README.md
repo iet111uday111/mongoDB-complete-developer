@@ -367,3 +367,8 @@ Welcome to MongoDB!
 
 #### $regex operator
 ![Screenshot](./Screenshots/Screenshot91.png?raw=true "Screenshot")
+
+#### $expr operator
+![Screenshot](./Screenshots/Screenshot92.png?raw=true "Screenshot")
+
+
