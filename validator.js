@@ -47,3 +47,18 @@ db.posts.insertOne({
      creator: ObjectId("5c24baa64276918b05d82bce"), 
      comments: [{ text: "I like post", author: ObjectId("5c24baa64276918b05d82bcd") }]
 })
+
+
+db.users.find(
+    {
+        hobbies: 
+            {
+                $eleMatch:
+                {
+                    title:"Sports", 
+                    frequency:{
+                        $gte:3
+                    }
+                }
+            }
+    });
