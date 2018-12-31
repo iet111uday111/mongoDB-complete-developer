@@ -357,4 +357,10 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot87.png?raw=true "Screenshot")
 
 #### $exists and not equal to null
-![Screenshot](./Screenshots/Screenshot87.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot88.png?raw=true "Screenshot")
+
+#### $type operator 
+![Screenshot](./Screenshots/Screenshot89.png?raw=true "Screenshot")
+
+#### $type operator multiple type
+![Screenshot](./Screenshots/Screenshot90.png?raw=true "Screenshot")
