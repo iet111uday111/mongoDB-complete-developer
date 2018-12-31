@@ -317,3 +317,8 @@ Welcome to MongoDB!
 #### findOne Query
 ![Screenshot](./Screenshots/Screenshot74.png?raw=true "Screenshot")
 
+#### Query and Projection Operators Query
+![Screenshot](./Screenshots/Screenshot75.png?raw=true "Screenshot")
+
+#### Query Selectors - Comparison
+![Screenshot](./Screenshots/Screenshot75.png?raw=true "Screenshot")
