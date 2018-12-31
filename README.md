@@ -321,4 +321,13 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot75.png?raw=true "Screenshot")
 
 #### Query Selectors - Comparison
-![Screenshot](./Screenshots/Screenshot75.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot76.png?raw=true "Screenshot")
+
+#### Querying Embedded Fields
+![Screenshot](./Screenshots/Screenshot77.png?raw=true "Screenshot")
+
+#### Querying Embedded Array
+![Screenshot](./Screenshots/Screenshot78.png?raw=true "Screenshot")
+
+#### Querying Embedded Array Exact
+![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
