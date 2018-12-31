@@ -333,7 +333,19 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
 
 #### $in Operator
-![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot80.png?raw=true "Screenshot")
 
 #### $nin Operator
-![Screenshot](./Screenshots/Screenshot79.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot81.png?raw=true "Screenshot")
+
+#### $or Operator
+![Screenshot](./Screenshots/Screenshot82.png?raw=true "Screenshot")
+
+#### $nor Operator
+![Screenshot](./Screenshots/Screenshot83.png?raw=true "Screenshot")
+
+#### $and Operator
+![Screenshot](./Screenshots/Screenshot84.png?raw=true "Screenshot")
+
+#### Why there is need of $and Operator
+![Screenshot](./Screenshots/Screenshot85.png?raw=true "Screenshot")
