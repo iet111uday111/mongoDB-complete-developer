@@ -412,3 +412,7 @@ Welcome to MongoDB!
 
 #### Operating with Cursors - Projection in Array with Condition
 ![Screenshot](./Screenshots/Screenshot106.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot107.png?raw=true "Screenshot")
+
+#### Operating with Cursors - $slice
+![Screenshot](./Screenshots/Screenshot108.png?raw=true "Screenshot")
