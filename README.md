@@ -355,3 +355,6 @@ Welcome to MongoDB!
 
 #### $exists  Operator
 ![Screenshot](./Screenshots/Screenshot87.png?raw=true "Screenshot")
+
+#### $exists and not equal to null
+![Screenshot](./Screenshots/Screenshot87.png?raw=true "Screenshot")
