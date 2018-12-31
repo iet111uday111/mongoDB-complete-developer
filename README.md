@@ -310,3 +310,10 @@ Welcome to MongoDB!
 
 #### How Operators impact our data
 ![Screenshot](./Screenshots/Screenshot72.png?raw=true "Screenshot")
+
+#### Query Selectors & Projection Operators
+![Screenshot](./Screenshots/Screenshot73.png?raw=true "Screenshot")
+
+#### findOne Query
+![Screenshot](./Screenshots/Screenshot74.png?raw=true "Screenshot")
+
