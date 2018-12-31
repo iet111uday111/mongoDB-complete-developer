@@ -371,4 +371,6 @@ Welcome to MongoDB!
 #### $expr operator
 ![Screenshot](./Screenshots/Screenshot92.png?raw=true "Screenshot")
 
+#### Complex Querie with $expr 
+![Screenshot](./Screenshots/Screenshot93.png?raw=true "Screenshot")
 
