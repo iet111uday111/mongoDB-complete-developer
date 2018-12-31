@@ -302,3 +302,11 @@ Welcome to MongoDB!
 #### Reading DataSets Terms
 ![Screenshot](./Screenshots/Screenshot69.png?raw=true "Screenshot")
 
+#### Methods, Filters & Operators
+![Screenshot](./Screenshots/Screenshot70.png?raw=true "Screenshot")
+
+#### Operators
+![Screenshot](./Screenshots/Screenshot71.png?raw=true "Screenshot")
+
+#### How Operators impact our data
+![Screenshot](./Screenshots/Screenshot72.png?raw=true "Screenshot")
