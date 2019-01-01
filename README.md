@@ -477,3 +477,10 @@ Welcome to MongoDB!
 
 #### Update Summary
 ![Screenshot](./Screenshots/Screenshot129.png?raw=true "Screenshot")
+
+#### Delete One
+![Screenshot](./Screenshots/Screenshot130.png?raw=true "Screenshot")
+
+#### Delete Many, Drop Collection, Drop Database
+![Screenshot](./Screenshots/Screenshot131.png?raw=true "Screenshot")
+
