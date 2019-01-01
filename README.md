@@ -429,3 +429,12 @@ Welcome to MongoDB!
 #### $inc Operator
 ![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
 
+#### $max Operator
+![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+
+#### $min Operator
+![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+
+#### $mul Operator
+![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+
