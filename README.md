@@ -453,3 +453,6 @@ Welcome to MongoDB!
 
 #### Adding a new field from result of previous query.
 ![Screenshot](./Screenshots/Screenshot121.png?raw=true "Screenshot")
+
+#### Updating All Array Elements
+![Screenshot](./Screenshots/Screenshot122.png?raw=true "Screenshot")
