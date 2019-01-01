@@ -423,3 +423,6 @@ Welcome to MongoDB!
 #### Update One
 ![Screenshot](./Screenshots/Screenshot110.png?raw=true "Screenshot")
 
+#### Update Many
+![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+
