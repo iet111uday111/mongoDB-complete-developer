@@ -474,3 +474,6 @@ Welcome to MongoDB!
 
 #### $addToSet Operator(Does not add Duplicate Value)
 ![Screenshot](./Screenshots/Screenshot128.png?raw=true "Screenshot")
+
+#### Update Summary
+![Screenshot](./Screenshots/Screenshot129.png?raw=true "Screenshot")
