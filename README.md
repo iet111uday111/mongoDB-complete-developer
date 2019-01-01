@@ -444,3 +444,5 @@ Welcome to MongoDB!
 #### $rename Operator
 ![Screenshot](./Screenshots/Screenshot117.png?raw=true "Screenshot")
 
+#### upsert
+![Screenshot](./Screenshots/Screenshot118.png?raw=true "Screenshot")
