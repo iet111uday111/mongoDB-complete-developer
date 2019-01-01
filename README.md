@@ -446,3 +446,7 @@ Welcome to MongoDB!
 
 #### upsert
 ![Screenshot](./Screenshots/Screenshot118.png?raw=true "Screenshot")
+
+#### Updating Matched Array Elements
+![Screenshot](./Screenshots/Screenshot119.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot120.png?raw=true "Screenshot")
