@@ -465,3 +465,9 @@ Welcome to MongoDB!
 
 #### Adding Elements to Arrays Result
 ![Screenshot](./Screenshots/Screenshot125.png?raw=true "Screenshot")
+
+#### $pull Operator
+![Screenshot](./Screenshots/Screenshot126.png?raw=true "Screenshot")
+
+#### $pop Operator
+![Screenshot](./Screenshots/Screenshot127.png?raw=true "Screenshot")
