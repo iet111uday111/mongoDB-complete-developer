@@ -416,3 +416,7 @@ Welcome to MongoDB!
 
 #### Operating with Cursors - $slice
 ![Screenshot](./Screenshots/Screenshot108.png?raw=true "Screenshot")
+
+#### Update
+![Screenshot](./Screenshots/Screenshot109.png?raw=true "Screenshot")
+
