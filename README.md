@@ -427,14 +427,17 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
 
 #### $inc Operator
-![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot112.png?raw=true "Screenshot")
 
 #### $max Operator
-![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot113.png?raw=true "Screenshot")
 
 #### $min Operator
-![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot114.png?raw=true "Screenshot")
 
 #### $mul Operator
-![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot115.png?raw=true "Screenshot")
+
+#### $unset Operator
+![Screenshot](./Screenshots/Screenshot116.png?raw=true "Screenshot")
 
