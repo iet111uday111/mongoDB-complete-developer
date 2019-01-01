@@ -426,3 +426,6 @@ Welcome to MongoDB!
 #### Update Many
 ![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
 
+#### $inc Operator
+![Screenshot](./Screenshots/Screenshot111.png?raw=true "Screenshot")
+
