@@ -458,4 +458,10 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot122.png?raw=true "Screenshot")
 
 #### Finding  Updating Specific Fields
-![Screenshot](./Screenshots/Screenshot122.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot123.png?raw=true "Screenshot")
+
+#### Adding Elements to Arrays
+![Screenshot](./Screenshots/Screenshot124.png?raw=true "Screenshot")
+
+#### Adding Elements to Arrays Result
+![Screenshot](./Screenshots/Screenshot125.png?raw=true "Screenshot")
