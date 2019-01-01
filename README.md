@@ -450,3 +450,6 @@ Welcome to MongoDB!
 #### Updating Matched Array Elements
 ![Screenshot](./Screenshots/Screenshot119.png?raw=true "Screenshot")
 ![Screenshot](./Screenshots/Screenshot120.png?raw=true "Screenshot")
+
+#### Adding a new field from result of previous query.
+![Screenshot](./Screenshots/Screenshot121.png?raw=true "Screenshot")
