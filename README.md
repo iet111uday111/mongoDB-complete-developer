@@ -441,3 +441,6 @@ Welcome to MongoDB!
 #### $unset Operator
 ![Screenshot](./Screenshots/Screenshot116.png?raw=true "Screenshot")
 
+#### $rename Operator
+![Screenshot](./Screenshots/Screenshot117.png?raw=true "Screenshot")
+
