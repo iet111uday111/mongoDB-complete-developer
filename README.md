@@ -513,3 +513,6 @@ Welcome to MongoDB!
 
 #### compoundIndex Query
 ![Screenshot](./Screenshots/Screenshot141.png?raw=true "Screenshot")
+
+#### Using Indexes for Sorting
+![Screenshot](./Screenshots/Screenshot141.png?raw=true "Screenshot")
