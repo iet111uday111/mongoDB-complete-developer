@@ -515,4 +515,4 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot141.png?raw=true "Screenshot")
 
 #### Using Indexes for Sorting
-![Screenshot](./Screenshots/Screenshot141.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot142.png?raw=true "Screenshot")
