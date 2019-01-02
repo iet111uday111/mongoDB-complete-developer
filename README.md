@@ -580,6 +580,14 @@ Welcome to MongoDB!
 #### Combine Text Index
 ![Screenshot](./Screenshots/Screenshot162.png?raw=true "Screenshot")
 
+####  Text Indexes to Exclude Words.
+![Screenshot](./Screenshots/Screenshot163.png?raw=true "Screenshot")
+
+####  Text Indexes with $caseSensitive
+![Screenshot](./Screenshots/Screenshot164.png?raw=true "Screenshot")
+
+####  Text Indexes with textScore
+![Screenshot](./Screenshots/Screenshot165.png?raw=true "Screenshot")
 
 ### IMP Links
 
