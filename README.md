@@ -575,3 +575,12 @@ Welcome to MongoDB!
 [MongoDB: The Database for Big Data Processing](https://www.edureka.co/blog/mongodb-the-database-for-big-data-processing/)
 
 [IJSER](https://www.ijser.org/onlineResearchPaperViewer.aspx?Inclusive-Assessment-of-SQL-Database-And-MongoDB-Database-With-Latest-Evaluation.pdf)
+
+[Partial Indexes and Validation](https://www.compose.com/articles/deeper-on-3-2-partial-indexes-validation/)
+
+[Slow query behaviour using $exists with mongodb on fields with an index](https://stackoverflow.com/questions/42378355/slow-query-behaviour-using-exists-with-mongodb-on-fields-with-an-index)
+
+[MongoDB Partial Indexes – Is it time to rethink your indexing strategy?](https://www.objectrocket.com/blog/mongodb/mongodb-partial-indexes/)
+
+[MongoDB 3.2 goodies coming your way: Partial Indexes](https://plusnconsulting.com/post/MongoDB-3-2-goodies-coming-your-way-Partial-Indexes/)
+
