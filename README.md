@@ -492,3 +492,6 @@ Welcome to MongoDB!
 
 #### Don't Use too many Indexes
 ![Screenshot](./Screenshots/Screenshot134.png?raw=true "Screenshot")
+
+#### mongoimport
+![Screenshot](./Screenshots/Screenshot135.png?raw=true "Screenshot")
