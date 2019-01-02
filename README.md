@@ -559,6 +559,23 @@ Welcome to MongoDB!
 #### allPlansExecutions
 ![Screenshot](./Screenshots/Screenshot155.png?raw=true "Screenshot")
 
+#### Multi-Key Indexes
+![Screenshot](./Screenshots/Screenshot156.png?raw=true "Screenshot")
+
+#### Multi-Key Indexes Case
+![Screenshot](./Screenshots/Screenshot157.png?raw=true "Screenshot")
+
+#### Text Index
+![Screenshot](./Screenshots/Screenshot158.png?raw=true "Screenshot")
+
+#### Text Index Query
+![Screenshot](./Screenshots/Screenshot159.png?raw=true "Screenshot")
+
+#### Text Score Query
+![Screenshot](./Screenshots/Screenshot160.png?raw=true "Screenshot")
+
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
