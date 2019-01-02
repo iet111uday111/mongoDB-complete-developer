@@ -516,3 +516,6 @@ Welcome to MongoDB!
 
 #### Using Indexes for Sorting
 ![Screenshot](./Screenshots/Screenshot142.png?raw=true "Screenshot")
+
+#### Available Indexes of the collection
+![Screenshot](./Screenshots/Screenshot143.png?raw=true "Screenshot")
