@@ -553,6 +553,11 @@ Welcome to MongoDB!
 #### Clearing the winning plan from cache
 ![Screenshot](./Screenshots/Screenshot153.png?raw=true "Screenshot")
 
+#### Clearing the winning plan from cache
+![Screenshot](./Screenshots/Screenshot154.png?raw=true "Screenshot")
+
+#### allPlansExecutions
+![Screenshot](./Screenshots/Screenshot155.png?raw=true "Screenshot")
 
 ### IMP Links
 
