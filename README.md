@@ -510,3 +510,6 @@ Welcome to MongoDB!
 
 #### compoundIndex
 ![Screenshot](./Screenshots/Screenshot140.png?raw=true "Screenshot")
+
+#### compoundIndex Query
+![Screenshot](./Screenshots/Screenshot141.png?raw=true "Screenshot")
