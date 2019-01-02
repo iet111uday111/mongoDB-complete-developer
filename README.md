@@ -533,3 +533,42 @@ Welcome to MongoDB!
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
 
+[Model One-to-Many Relationships with Document References](https://docs.mongodb.com/manual/tutorial/model-referenced-one-to-many-relationships-between-documents/)
+
+[The MongoDB Manual](https://docs.mongodb.com/manual/)
+
+[Connection String URI Format](https://docs.mongodb.com/manual/reference/connection-string/)
+
+[Connection String URI Format](https://docs.mongodb.com/manual/reference/connection-string/)
+
+[Database References](https://docs.mongodb.com/manual/reference/database-references/)
+
+[Application Design Tips](https://www.oreilly.com/library/view/50-tips-and/9781449306779/ch01.html)
+
+[MongoDB relationships: embed or reference?](https://stackoverflow.com/questions/5373198/mongodb-relationships-embed-or-reference)
+
+[Jumpstart MongoDB: A Collection of Resources](https://dzone.com/articles/jumpstart-mongodb-collection)
+
+[Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
+
+[Advanced Node.js Development: Master Node.js by building real-world applications](https://books.google.co.in/books?id=25lUDwAAQBAJ&pg=PA28&lpg=PA28&dq=MongoDB+important+Links&source=bl&ots=AC1MQJU93P&sig=KLi2FrJxFE2odWhv_VbIgKN3AxE&hl=en&sa=X&ved=2ahUKEwjrtqKYgs_fAhUH3o8KHZpNDkUQ6AEwEXoECAEQAQ#v=onepage&q=MongoDB%20important%20Links&f=false)
+
+[Using JOINs in MongoDB NoSQL Databases](https://www.sitepoint.com/using-joins-in-mongodb-nosql-databases/)
+
+[A Basic introduction to Mongo DB](https://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html)
+
+[MongoDB in 2018 - A Year in Review](https://severalnines.com/blog/mongodb-2018-year-review)
+
+[How to Investigate MongoDB Query Performance](https://studio3t.com/knowledge-base/articles/mongodb-query-performance/)
+
+[MongoSchema](http://learnmongodbthehardway.com/schema/schemabasics/)
+
+[Survival guide to Backup & Restore MongoDB](https://weknowinc.com/blog/how-to-backup-restore-mongodb)
+
+[How to monitor MongoDB database performance](https://www.infoworld.com/article/3209092/application-development/how-to-monitor-mongodb-database-performance.html)
+
+[Webinar: Processing High Volume Data Feeds with MongoDB - FIX, FpML and Swift in association with C24](https://www.slideshare.net/mongodb/webinar-processing-high-volume-data-feeds-with-mongodb-fix-fpml-and-swift-in-association-with-c24)
+
+[MongoDB: The Database for Big Data Processing](https://www.edureka.co/blog/mongodb-the-database-for-big-data-processing/)
+
+[IJSER](https://www.ijser.org/onlineResearchPaperViewer.aspx?Inclusive-Assessment-of-SQL-Database-And-MongoDB-Database-With-Latest-Evaluation.pdf)
