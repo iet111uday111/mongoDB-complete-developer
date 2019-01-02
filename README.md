@@ -530,7 +530,10 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot146.png?raw=true "Screenshot")
 
 #### Applying the Partial Index with $exists
-![Screenshot](./Screenshots/Screenshot146.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot147.png?raw=true "Screenshot")
+
+#### Time-To-Live (TTL) Index
+![Screenshot](./Screenshots/Screenshot148.png?raw=true "Screenshot")
 
 ### IMP Links
 
