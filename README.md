@@ -498,3 +498,6 @@ Welcome to MongoDB!
 
 #### explain()
 ![Screenshot](./Screenshots/Screenshot136.png?raw=true "Screenshot")
+
+#### explain("executionStats")
+![Screenshot](./Screenshots/Screenshot137.png?raw=true "Screenshot")
