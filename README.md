@@ -535,6 +535,9 @@ Welcome to MongoDB!
 #### Time-To-Live (TTL) Index
 ![Screenshot](./Screenshots/Screenshot148.png?raw=true "Screenshot")
 
+#### Query Diagnosis & Query Planning
+![Screenshot](./Screenshots/Screenshot148.png?raw=true "Screenshot")
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
