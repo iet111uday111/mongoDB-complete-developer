@@ -604,3 +604,8 @@ Welcome to MongoDB!
 [Working with MongoDB TTL (Time-To-Live) Index](https://bl.ocks.org/hassansin/bcb7cdfdcdb74f7c2427b7a0a23686b6)
 
 [Time-to-Live Collections with MongoDB](https://dzone.com/articles/time-live-collections-mongodb)
+
+[Analyze Query Performance](https://docs.mongodb.com/manual/tutorial/analyze-query-plan/)
+
+[MongoDB: Investigate Queries With explain() and Index Usage (Part 2)](https://dzone.com/articles/mongodb-investigate-queries-with-explain-and-index)
+
