@@ -619,3 +619,5 @@ Welcome to MongoDB!
 
 [mongodb indexes covered queries](https://stackoverflow.com/questions/16522288/mongodb-indexes-covered-queries)
 
+[Covered query in MongoDB](https://www.javamadesoeasy.com/2017/04/covered-query-in-mongodb.html)
+
