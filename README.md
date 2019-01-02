@@ -541,6 +541,10 @@ Welcome to MongoDB!
 #### Efficient Query and Covered Queries
 ![Screenshot](./Screenshots/Screenshot150.png?raw=true "Screenshot")
 
+#### Covered Queries
+![Screenshot](./Screenshots/Screenshot151.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
