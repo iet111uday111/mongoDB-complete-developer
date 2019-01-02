@@ -495,3 +495,6 @@ Welcome to MongoDB!
 
 #### mongoimport
 ![Screenshot](./Screenshots/Screenshot135.png?raw=true "Screenshot")
+
+#### explain()
+![Screenshot](./Screenshots/Screenshot136.png?raw=true "Screenshot")
