@@ -501,3 +501,6 @@ Welcome to MongoDB!
 
 #### explain("executionStats")
 ![Screenshot](./Screenshots/Screenshot137.png?raw=true "Screenshot")
+
+#### createIndex
+![Screenshot](./Screenshots/Screenshot138.png?raw=true "Screenshot")
