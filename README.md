@@ -485,4 +485,7 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot131.png?raw=true "Screenshot")
 
 #### Indexes
-![Screenshot](./Screenshots/Screenshot131.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot132.png?raw=true "Screenshot")
+
+#### Why Indexes
+![Screenshot](./Screenshots/Screenshot133.png?raw=true "Screenshot")
