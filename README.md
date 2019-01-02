@@ -550,6 +550,10 @@ Welcome to MongoDB!
 #### Winning Plan
 ![Screenshot](./Screenshots/Screenshot153.png?raw=true "Screenshot")
 
+#### Clearing the winning plan from cache
+![Screenshot](./Screenshots/Screenshot153.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
