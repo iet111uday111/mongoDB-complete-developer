@@ -589,6 +589,13 @@ Welcome to MongoDB!
 ####  Text Indexes with textScore
 ![Screenshot](./Screenshots/Screenshot165.png?raw=true "Screenshot")
 
+####  Building Index
+![Screenshot](./Screenshots/Screenshot166.png?raw=true "Screenshot")
+
+####  Background Index
+![Screenshot](./Screenshots/Screenshot167.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
