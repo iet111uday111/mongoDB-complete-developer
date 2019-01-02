@@ -519,3 +519,6 @@ Welcome to MongoDB!
 
 #### Available Indexes of the collection
 ![Screenshot](./Screenshots/Screenshot143.png?raw=true "Screenshot")
+
+#### Configuring Indexes (Unique Indexes)
+![Screenshot](./Screenshots/Screenshot144.png?raw=true "Screenshot")
