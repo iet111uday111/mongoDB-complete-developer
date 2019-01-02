@@ -504,3 +504,7 @@ Welcome to MongoDB!
 
 #### createIndex
 ![Screenshot](./Screenshots/Screenshot138.png?raw=true "Screenshot")
+
+#### Diagram of a query that uses an index to select and return sorted results.
+![Screenshot](./Screenshots/Screenshot139.svg?raw=true "Screenshot")
+
