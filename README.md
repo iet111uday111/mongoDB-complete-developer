@@ -489,3 +489,6 @@ Welcome to MongoDB!
 
 #### Why Indexes
 ![Screenshot](./Screenshots/Screenshot133.png?raw=true "Screenshot")
+
+#### Don't Use too many Indexes
+![Screenshot](./Screenshots/Screenshot134.png?raw=true "Screenshot")
