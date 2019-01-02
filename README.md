@@ -522,3 +522,11 @@ Welcome to MongoDB!
 
 #### Configuring Indexes (Unique Indexes)
 ![Screenshot](./Screenshots/Screenshot144.png?raw=true "Screenshot")
+
+#### Partial Indexes
+![Screenshot](./Screenshots/Screenshot145.png?raw=true "Screenshot")
+
+### IMP Links
+
+[What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
+
