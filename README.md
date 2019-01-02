@@ -574,6 +574,11 @@ Welcome to MongoDB!
 #### Text Score Query
 ![Screenshot](./Screenshots/Screenshot160.png?raw=true "Screenshot")
 
+#### Multiple Text Index in a collection
+![Screenshot](./Screenshots/Screenshot161.png?raw=true "Screenshot")
+
+#### Combine Text Index
+![Screenshot](./Screenshots/Screenshot162.png?raw=true "Screenshot")
 
 
 ### IMP Links
