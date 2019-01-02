@@ -508,3 +508,5 @@ Welcome to MongoDB!
 #### Diagram of a query that uses an index to select and return sorted results.
 ![Screenshot](./Screenshots/Screenshot139.svg?raw=true "Screenshot")
 
+#### compoundIndex
+![Screenshot](./Screenshots/Screenshot140.png?raw=true "Screenshot")
