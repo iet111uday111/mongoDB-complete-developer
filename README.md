@@ -587,3 +587,14 @@ Welcome to MongoDB!
 
 [MongoDB 3.2 goodies coming your way: Partial Indexes](https://plusnconsulting.com/post/MongoDB-3-2-goodies-coming-your-way-Partial-Indexes/)
 
+[Expire Data from Collections by Setting TTL](https://docs.mongodb.com/manual/tutorial/expire-data/)
+
+[Working with MongoDB TTL (Time-To-Live) Index](http://hassansin.github.io/working-with-mongodb-ttl-index)
+
+[how can I use ttl (time to live) on mongodb with collection.update?](https://stackoverflow.com/questions/48048982/how-can-i-use-ttl-time-to-live-on-mongodb-with-collection-update)
+
+[MongoDB Time To Live (TTL) Collections](https://www.codeproject.com/Tips/467689/MongoDB-Time-To-Live-TTL-Collections)
+
+[Working with MongoDB TTL (Time-To-Live) Index](https://bl.ocks.org/hassansin/bcb7cdfdcdb74f7c2427b7a0a23686b6)
+
+[Time-to-Live Collections with MongoDB](https://dzone.com/articles/time-live-collections-mongodb)
