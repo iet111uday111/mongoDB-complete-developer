@@ -536,7 +536,10 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot148.png?raw=true "Screenshot")
 
 #### Query Diagnosis & Query Planning
-![Screenshot](./Screenshots/Screenshot148.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot149.png?raw=true "Screenshot")
+
+#### Efficient Query and Covered Queries
+![Screenshot](./Screenshots/Screenshot150.png?raw=true "Screenshot")
 
 ### IMP Links
 
