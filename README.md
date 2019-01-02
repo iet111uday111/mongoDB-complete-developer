@@ -484,3 +484,5 @@ Welcome to MongoDB!
 #### Delete Many, Drop Collection, Drop Database
 ![Screenshot](./Screenshots/Screenshot131.png?raw=true "Screenshot")
 
+#### Indexes
+![Screenshot](./Screenshots/Screenshot131.png?raw=true "Screenshot")
