@@ -621,3 +621,4 @@ Welcome to MongoDB!
 
 [Covered query in MongoDB](https://www.javamadesoeasy.com/2017/04/covered-query-in-mongodb.html)
 
+[Indexes](http://mongodb.github.io/node-mongodb-native/schema/chapter4/)
