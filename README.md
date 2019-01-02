@@ -544,6 +544,8 @@ Welcome to MongoDB!
 #### Covered Queries
 ![Screenshot](./Screenshots/Screenshot151.png?raw=true "Screenshot")
 
+#### Rejected Plan
+![Screenshot](./Screenshots/Screenshot152.png?raw=true "Screenshot")
 
 ### IMP Links
 
@@ -622,3 +624,6 @@ Welcome to MongoDB!
 [Covered query in MongoDB](https://www.javamadesoeasy.com/2017/04/covered-query-in-mongodb.html)
 
 [Indexes](http://mongodb.github.io/node-mongodb-native/schema/chapter4/)
+
+
+
