@@ -613,3 +613,9 @@ Welcome to MongoDB!
 
 [MongoDB: Investigate Queries With explain() and Index Usage (Part 2)](https://dzone.com/articles/mongodb-investigate-queries-with-explain-and-index)
 
+[Covered Queries in MongoDB](https://dzone.com/articles/covered-query-mongodb)
+
+[MongoDB - Covered Queries](https://www.tutorialspoint.com/mongodb/mongodb_covered_queries.htm)
+
+[mongodb indexes covered queries](https://stackoverflow.com/questions/16522288/mongodb-indexes-covered-queries)
+
