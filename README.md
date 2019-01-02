@@ -595,6 +595,8 @@ Welcome to MongoDB!
 ####  Background Index
 ![Screenshot](./Screenshots/Screenshot167.png?raw=true "Screenshot")
 
+####  Geospatial Data
+![Screenshot](./Screenshots/Screenshot167.png?raw=true "Screenshot")
 
 ### IMP Links
 
