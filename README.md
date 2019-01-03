@@ -715,6 +715,8 @@ Welcome to MongoDB!
 ####  Writing Pipeline Results Into a New Collection.
 ![Screenshot](./Screenshots/Screenshot207.png?raw=true "Screenshot")
 
+#### Working with the geoNear Stage($Aggregation)
+![Screenshot](./Screenshots/Screenshot208.png?raw=true "Screenshot")
 
 
 ### IMP Links
