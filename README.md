@@ -679,7 +679,14 @@ Welcome to MongoDB!
 #### No. of person born in same year with $sort
 ![Screenshot](./Screenshots/Screenshot195.png?raw=true "Screenshot")
 
-#### How to filter by year and week in MongoDB
+#### $project vs $group
+![Screenshot](./Screenshots/Screenshot196.png?raw=true "Screenshot")
+
+#### Pushing Elements Into Newly Created Arrays($push Aggregation)
+![Screenshot](./Screenshots/Screenshot197.png?raw=true "Screenshot")
+
+#### $unwind
+![Screenshot](./Screenshots/Screenshot198.png?raw=true "Screenshot")
 
 
 ### IMP Links
