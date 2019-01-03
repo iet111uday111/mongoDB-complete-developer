@@ -697,6 +697,9 @@ Welcome to MongoDB!
 #### $size(Getting the Length of an Array)
 ![Screenshot](./Screenshots/Screenshot201.png?raw=true "Screenshot")
 
+#### $filter
+![Screenshot](./Screenshots/Screenshot202.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
