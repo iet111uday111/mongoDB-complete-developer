@@ -700,6 +700,9 @@ Welcome to MongoDB!
 #### $filter
 ![Screenshot](./Screenshots/Screenshot202.png?raw=true "Screenshot")
 
+#### Applying Multiple Operations to our Array.
+![Screenshot](./Screenshots/Screenshot203.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
