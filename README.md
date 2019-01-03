@@ -713,5 +713,13 @@ Welcome to MongoDB!
 
 [Indexes](http://mongodb.github.io/node-mongodb-native/schema/chapter4/)
 
+[Getting Started with Geospatial Data in MongoDB](https://www.slideshare.net/mongodb/getting-started-with-geospatial-data-in-mongodb)
 
+[Geospatial Queries](https://docs.mongodb.com/manual/geospatial-queries/)
+
+[2dsphere Indexes](https://docs.mongodb.com/manual/core/2dsphere/)
+
+[Introduction to MongoDB Geospatial feature](http://tugdualgrall.blogspot.com/2014/08/introduction-to-mongodb-geospatial.html)
+
+[GeoFile: Everything in the Radius with MongoDB Geospatial Queries](https://www.compose.com/articles/geofile-everything-in-the-radius-with-mongodb-geospatial-queries/)
 
