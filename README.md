@@ -775,3 +775,5 @@ Welcome to MongoDB!
 
 [Mongo Aggregations in 5 Minutes](https://engineering.universe.com/mongo-aggregations-in-5-minutes-b8e1d9c274bb)
 
+[$substrCP (aggregation)](https://docs.mongodb.com/manual/reference/operator/aggregation/substrCP/)
+
