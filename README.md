@@ -631,6 +631,10 @@ Welcome to MongoDB!
 #### Geospatial Summary
 ![Screenshot](./Screenshots/Screenshot179.png?raw=true "Screenshot")
 
+#### Geospatial Query Operator
+![Screenshot](./Screenshots/Screenshot180.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
