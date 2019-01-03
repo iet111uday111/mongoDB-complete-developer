@@ -610,6 +610,9 @@ Welcome to MongoDB!
 #### Query After creating GeoSpatial Index with $maxDistance and $minDistance
 ![Screenshot](./Screenshots/Screenshot172.png?raw=true "Screenshot")
 
+#### Added Additional Locations
+![Screenshot](./Screenshots/Screenshot173.png?raw=true "Screenshot")
+
 
 
 
