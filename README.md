@@ -613,6 +613,11 @@ Welcome to MongoDB!
 #### Added Additional Locations
 ![Screenshot](./Screenshots/Screenshot173.png?raw=true "Screenshot")
 
+#### Added Additional Locations
+![Screenshot](./Screenshots/Screenshot174.png?raw=true "Screenshot")
+
+#### Finding Places Inside a Certain Area using type of Polygon
+![Screenshot](./Screenshots/Screenshot175.png?raw=true "Screenshot")
 
 
 
