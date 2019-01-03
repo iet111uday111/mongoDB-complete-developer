@@ -626,8 +626,10 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot177.png?raw=true "Screenshot")
 
 #### Finding Places Within a Certain Radius
-![Screenshot](./Screenshots/Screenshot177.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot178.png?raw=true "Screenshot")
 
+#### Geospatial Summary
+![Screenshot](./Screenshots/Screenshot179.png?raw=true "Screenshot")
 
 ### IMP Links
 
