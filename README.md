@@ -658,6 +658,9 @@ Welcome to MongoDB!
 #### Aggregation Pipeline
 ![Screenshot](./Screenshots/Screenshot188.png?raw=true "Screenshot")
 
+#### $toUpper (aggregation) - 2
+![Screenshot](./Screenshots/Screenshot189.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
