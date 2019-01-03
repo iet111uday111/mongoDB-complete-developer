@@ -596,7 +596,14 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot167.png?raw=true "Screenshot")
 
 ####  Geospatial Data
-![Screenshot](./Screenshots/Screenshot167.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot168.png?raw=true "Screenshot")
+
+####  Inserting GeoJSON Data
+![Screenshot](./Screenshots/Screenshot169.png?raw=true "Screenshot")
+
+
+
+
 
 ### IMP Links
 
