@@ -670,6 +670,9 @@ Welcome to MongoDB!
 #### Turning the Location Into a geoJSON Object
 ![Screenshot](./Screenshots/Screenshot192.png?raw=true "Screenshot")
 
+#### Using Shortcuts for Transformations
+![Screenshot](./Screenshots/Screenshot193.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
@@ -798,3 +801,6 @@ Welcome to MongoDB!
 [Aggregation Pipeline Operators](https://docs.mongodb.com/manual/reference/operator/aggregation/)
 
 [stupid-tricks-with-mongodb](http://www.kamsky.org/stupid-tricks-with-mongodb/category/aggregation)
+
+[Interacting with cursors](http://nicholasjohnson.com/mongo/course/exercises/cursors/)
+
