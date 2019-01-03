@@ -694,6 +694,9 @@ Welcome to MongoDB!
 #### $slice
 ![Screenshot](./Screenshots/Screenshot200.png?raw=true "Screenshot")
 
+#### $size(Getting the Length of an Array)
+![Screenshot](./Screenshots/Screenshot201.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
