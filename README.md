@@ -601,6 +601,9 @@ Welcome to MongoDB!
 ####  Inserting GeoJSON Data
 ![Screenshot](./Screenshots/Screenshot169.png?raw=true "Screenshot")
 
+#### Quering with $near attribute
+![Screenshot](./Screenshots/Screenshot170.png?raw=true "Screenshot")
+
 
 
 
