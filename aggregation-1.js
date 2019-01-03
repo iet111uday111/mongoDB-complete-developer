@@ -58,5 +58,6 @@ db.persons.aggregate([
           ]
         }
       }
-    }
+    },
+    { $group: { _id: {birthYear: {$isoWeekYear: '$birthdate'}}, numPersons: {$sum: 1}}}
   ]).pretty();

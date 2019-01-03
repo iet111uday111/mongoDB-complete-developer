@@ -673,6 +673,9 @@ Welcome to MongoDB!
 #### Using Shortcuts for Transformations
 ![Screenshot](./Screenshots/Screenshot193.png?raw=true "Screenshot")
 
+#### No. of person born in same year
+![Screenshot](./Screenshots/Screenshot194.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
