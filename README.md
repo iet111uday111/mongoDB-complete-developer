@@ -718,6 +718,10 @@ Welcome to MongoDB!
 #### Working with the geoNear Stage($Aggregation)
 ![Screenshot](./Screenshots/Screenshot208.png?raw=true "Screenshot")
 
+#### Summary ($Aggregation)
+![Screenshot](./Screenshots/Screenshot209.png?raw=true "Screenshot")
+
+
 
 ### IMP Links
 
