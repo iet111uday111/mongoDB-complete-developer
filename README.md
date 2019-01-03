@@ -783,3 +783,18 @@ Welcome to MongoDB!
 
 [$substrCP (aggregation)](https://docs.mongodb.com/manual/reference/operator/aggregation/substrCP/)
 
+[$convert (aggregation)](https://docs.mongodb.com/manual/reference/operator/aggregation/convert/)
+
+[how to convert string to numerical values in mongodb](https://stackoverflow.com/questions/29487351/how-to-convert-string-to-numerical-values-in-mongodb)
+
+[MongoDB Best Practices for UUID Data](https://studio3t.com/knowledge-base/articles/mongodb-best-practices-uuid-data/)
+
+[$concat (aggregation)](https://docs.mongodb.com/manual/reference/operator/aggregation/concat/)
+
+[Select records matching concat value of two fields in mongodb](https://stackoverflow.com/questions/24662413/select-records-matching-concat-value-of-two-fields-in-mongodb)
+
+[Creating new fields with $project](http://nicholasjohnson.com/mongo/course/exercises/aggregation-dynamic-project/)
+
+[Aggregation Pipeline Operators](https://docs.mongodb.com/manual/reference/operator/aggregation/)
+
+[stupid-tricks-with-mongodb](http://www.kamsky.org/stupid-tricks-with-mongodb/category/aggregation)
