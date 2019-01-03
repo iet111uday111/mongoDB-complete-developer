@@ -662,8 +662,10 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot189.png?raw=true "Screenshot")
 
 #### $substrCP, strLenCP (aggregation) - 3
-![Screenshot](./Screenshots/Screenshot189.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot190.png?raw=true "Screenshot")
 
+#### Map Reduce
+![Screenshot](./Screenshots/Screenshot191.png?raw=true "Screenshot")
 
 ### IMP Links
 
