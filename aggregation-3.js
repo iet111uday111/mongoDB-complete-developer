@@ -1,14 +1,14 @@
 db.friends.aggregate([
-    { $project: {_id:0, examScore: {$slice: ["$examScores",2,1]}}}
+    { $project: { _id: 0, examScore: { $slice: ["$examScores", 2, 1] } } }
 ]).pretty();
 
 db.friends.aggregate([
-    { $project: {_id:0, numScore: {$size: "$examScores"}}}
+    { $project: { _id: 0, numScore: { $size: "$examScores" } } }
 ]).pretty();
 
 
 db.friends.aggregate([
-    { $project: {_id:0, score: {$filter: {input: "$examScores", as:"sc", cond:{$gt: ["$$sc.score",60]}}}}}
+    { $project: { _id: 0, score: { $filter: { input: "$examScores", as: "sc", cond: { $gt: ["$$sc.score", 60] } } } } }
 ]).pretty();
 
 
@@ -19,5 +19,30 @@ db.friends.aggregate([
     { $sort: { score: -1 } },
     { $group: { _id: "$_id", name: { $first: "$name" }, maxScore: { $max: "$score" } } },
     { $sort: { maxScore: -1 } }
-  ]).pretty();
+]).pretty();
 
+db.persons.aggregate([
+    {
+        $bucket: {
+            groupBy: '$dob.age',
+            boundaries: [18, 30, 40, 50, 60, 120],
+            output: {
+                numPersons: { $sum: 1 },
+                averageAge: { $avg: '$dob.age' }
+            }
+        }
+    }
+]).pretty();
+
+    db.persons.aggregate([
+        {
+            $bucketAuto: {
+                groupBy: '$dob.age',
+                buckets: 5,
+                output: {
+                    numPersons: { $sum: 1 },
+                    averageAge: { $avg: '$dob.age' }
+                }
+            }
+        }
+    ]).pretty();

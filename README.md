@@ -703,6 +703,13 @@ Welcome to MongoDB!
 #### Applying Multiple Operations to our Array.
 ![Screenshot](./Screenshots/Screenshot203.png?raw=true "Screenshot")
 
+#### $bucket
+![Screenshot](./Screenshots/Screenshot204.png?raw=true "Screenshot")
+
+#### $bucketAuto
+![Screenshot](./Screenshots/Screenshot205.png?raw=true "Screenshot")
+
+
 
 ### IMP Links
 
