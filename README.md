@@ -667,6 +667,10 @@ Welcome to MongoDB!
 #### Map Reduce
 ![Screenshot](./Screenshots/Screenshot191.png?raw=true "Screenshot")
 
+#### Turning the Location Into a geoJSON Object
+![Screenshot](./Screenshots/Screenshot192.png?raw=true "Screenshot")
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
