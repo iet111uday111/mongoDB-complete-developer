@@ -735,3 +735,15 @@ Welcome to MongoDB!
 
 [GeoFile: Everything in the Radius with MongoDB Geospatial Queries](https://www.compose.com/articles/geofile-everything-in-the-radius-with-mongodb-geospatial-queries/)
 
+[using $and with $match in mongodb](https://stackoverflow.com/questions/20469712/using-and-with-match-in-mongodb)
+
+[MongoDB Aggregation Stages Operator - $match](https://www.w3resource.com/mongodb/aggregation/mongodb-aggregatrion-match-operator.php)
+
+[MongoDB SELECT COUNT GROUP BY](https://stackoverflow.com/questions/23116330/mongodb-select-count-group-by)
+
+[Group By in MongoDB(with $group)](http://www.tothenew.com/blog/group-by-in-mongodbwith-group/)
+
+[MongoDB group by and count](https://whiletrue.run/2016/09/30/mongodb-group-by-and-count/)
+
+[Aggregations in MongoDB by Example](https://www.compose.com/articles/aggregations-in-mongodb-by-example/)
+
