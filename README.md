@@ -712,7 +712,7 @@ Welcome to MongoDB!
 ## Diving Into Additional Stages (e.g. pagination)
 ![Screenshot](./Screenshots/Screenshot206.png?raw=true "Screenshot")
 
-#### Diving Into Additional Stages (e.g. pagination)
+####  Writing Pipeline Results Into a New Collection.
 ![Screenshot](./Screenshots/Screenshot207.png?raw=true "Screenshot")
 
 
