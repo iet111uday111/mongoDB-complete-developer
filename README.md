@@ -625,6 +625,9 @@ Welcome to MongoDB!
 #### Creating Polygon on Map to make Queries
 ![Screenshot](./Screenshots/Screenshot177.png?raw=true "Screenshot")
 
+#### Finding Places Within a Certain Radius
+![Screenshot](./Screenshots/Screenshot177.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
