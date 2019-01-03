@@ -5,9 +5,11 @@ db.persons.aggregate([
             gender: 1,
             fullName: {
                 $concat: [
-                    { $toUpper: '$name.first' },
+                    { $toUpper: { $substrCP: ['$name.first', 0, 1] } },
+                    { $substrCP: ['$name.first', 1, { $subtract: [{ $strLenCP: '$name.first' }, 1] }] },
                     ' ',
-                    { $toUpper: '$name.last' }
+                    { $toUpper: { $substrCP: ['$name.last', 0, 1] } },
+                    { $substrCP: ['$name.last', 1, { $subtract: [{ $strLenCP: '$name.last' }, 1] }] },
                 ]
             }
         }

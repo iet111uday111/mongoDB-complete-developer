@@ -661,6 +661,9 @@ Welcome to MongoDB!
 #### $toUpper (aggregation) - 2
 ![Screenshot](./Screenshots/Screenshot189.png?raw=true "Screenshot")
 
+#### $substrCP, strLenCP (aggregation) - 3
+![Screenshot](./Screenshots/Screenshot189.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
