@@ -655,6 +655,9 @@ Welcome to MongoDB!
 #### $project (aggregation) - 2
 ![Screenshot](./Screenshots/Screenshot187.png?raw=true "Screenshot")
 
+#### Aggregation Pipeline
+![Screenshot](./Screenshots/Screenshot188.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
