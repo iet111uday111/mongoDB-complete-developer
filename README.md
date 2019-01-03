@@ -676,6 +676,9 @@ Welcome to MongoDB!
 #### No. of person born in same year
 ![Screenshot](./Screenshots/Screenshot194.png?raw=true "Screenshot")
 
+#### No. of person born in same year with $sort
+![Screenshot](./Screenshots/Screenshot195.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
