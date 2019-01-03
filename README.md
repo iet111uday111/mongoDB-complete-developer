@@ -646,6 +646,9 @@ Welcome to MongoDB!
 #### $group (aggregation)
 ![Screenshot](./Screenshots/Screenshot184.png?raw=true "Screenshot")
 
+#### $sort (aggregation)
+![Screenshot](./Screenshots/Screenshot185.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
