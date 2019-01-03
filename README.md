@@ -688,6 +688,8 @@ Welcome to MongoDB!
 #### $unwind
 ![Screenshot](./Screenshots/Screenshot198.png?raw=true "Screenshot")
 
+#### Eliminating Duplicate Values.($addToSet)
+![Screenshot](./Screenshots/Screenshot199.png?raw=true "Screenshot")
 
 ### IMP Links
 
