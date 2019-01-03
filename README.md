@@ -649,6 +649,9 @@ Welcome to MongoDB!
 #### $sort (aggregation)
 ![Screenshot](./Screenshots/Screenshot185.png?raw=true "Screenshot")
 
+#### $project (aggregation) - 1
+![Screenshot](./Screenshots/Screenshot186.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
@@ -749,4 +752,14 @@ Welcome to MongoDB!
 [MongoDB group by and count](https://whiletrue.run/2016/09/30/mongodb-group-by-and-count/)
 
 [Aggregations in MongoDB by Example](https://www.compose.com/articles/aggregations-in-mongodb-by-example/)
+
+[$project (aggregation)](https://docs.mongodb.com/manual/reference/operator/aggregation/project/)
+
+[Project Fields to Return from Query](https://docs.mongodb.com/v3.2/tutorial/project-fields-from-query-results/)
+
+[MongoDB Aggregation Stages Operator - $project](https://www.w3resource.com/mongodb/aggregation/mongodb-aggregatrion-project-operator.php)
+
+[MongoDB: aggregate $project add field with static value](https://stackoverflow.com/questions/15110822/mongodb-aggregate-project-add-field-with-static-value)
+
+[Mongo Aggregations in 5 Minutes](https://engineering.universe.com/mongo-aggregations-in-5-minutes-b8e1d9c274bb)
 
