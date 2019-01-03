@@ -604,6 +604,11 @@ Welcome to MongoDB!
 #### Quering with $near attribute
 ![Screenshot](./Screenshots/Screenshot170.png?raw=true "Screenshot")
 
+#### Query After creating GeoSpatial Index
+![Screenshot](./Screenshots/Screenshot171.png?raw=true "Screenshot")
+
+#### Query After creating GeoSpatial Index with $maxDistance and $minDistance
+![Screenshot](./Screenshots/Screenshot172.png?raw=true "Screenshot")
 
 
 
