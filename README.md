@@ -709,6 +709,12 @@ Welcome to MongoDB!
 #### $bucketAuto
 ![Screenshot](./Screenshots/Screenshot205.png?raw=true "Screenshot")
 
+## Diving Into Additional Stages (e.g. pagination)
+![Screenshot](./Screenshots/Screenshot206.png?raw=true "Screenshot")
+
+#### Diving Into Additional Stages (e.g. pagination)
+![Screenshot](./Screenshots/Screenshot207.png?raw=true "Screenshot")
+
 
 
 ### IMP Links
