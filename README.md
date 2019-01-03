@@ -637,6 +637,8 @@ Welcome to MongoDB!
 #### Aggregation Framework
 ![Screenshot](./Screenshots/Screenshot181.png?raw=true "Screenshot")
 
+#### what is Aggregation Framework
+![Screenshot](./Screenshots/Screenshot182.png?raw=true "Screenshot")
 
 
 
