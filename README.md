@@ -757,6 +757,16 @@ Welcome to MongoDB!
 #### Authenticate a User for a database 
 ![Screenshot](./Screenshots/Screenshot221.png?raw=true "Screenshot")
 
+#### Update a User part I
+![Screenshot](./Screenshots/Screenshot222.png?raw=true "Screenshot")
+
+#### Update a User part II
+![Screenshot](./Screenshots/Screenshot223.png?raw=true "Screenshot")
+
+#### Update a User part III
+![Screenshot](./Screenshots/Screenshot224.png?raw=true "Screenshot")
+
+
 
 ### IMP Links
 
