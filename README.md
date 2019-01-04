@@ -721,6 +721,8 @@ Welcome to MongoDB!
 #### Summary ($Aggregation)
 ![Screenshot](./Screenshots/Screenshot209.png?raw=true "Screenshot")
 
+#### Integers, Long & Doubles
+![Screenshot](./Screenshots/Screenshot210.png?raw=true "Screenshot")
 
 
 ### IMP Links
