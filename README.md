@@ -1035,3 +1035,10 @@ Welcome to MongoDB!
 [MongoDB](http://learnmongodbthehardway.com/)
 
 [MongoDB Sharding, Replication and Clusters](https://medium.com/@tudip/mongodb-sharding-replication-and-clusters-d95a6595bd2c)
+
+[Create a Database Cluster in the Cloud With MongoDB Atlas](https://code.tutsplus.com/tutorials/create-a-database-cluster-in-the-cloud-with-mongodb-atlas--cms-31840)
+
+[MongoDB Atlas — Technical Overview & Benefits](https://medium.com/@nparsons08/mongodb-atlas-technical-overview-benefits-9e4cff27a75e)
+
+[MONGODB ATLAS: WHAT, WHY?](https://optimalbi.com/blog/2018/07/04/mongodb-atlas-what-why/)
+
