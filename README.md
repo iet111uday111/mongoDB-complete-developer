@@ -745,6 +745,17 @@ Welcome to MongoDB!
 #### Role Based Access Control in MongoDB
 ![Screenshot](./Screenshots/Screenshot217.png?raw=true "Screenshot")
 
+#### Why Role
+![Screenshot](./Screenshots/Screenshot218.png?raw=true "Screenshot")
+
+#### Built in Roles
+![Screenshot](./Screenshots/Screenshot219.png?raw=true "Screenshot")
+
+#### Authenticate a User 
+![Screenshot](./Screenshots/Screenshot220.png?raw=true "Screenshot")
+
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
