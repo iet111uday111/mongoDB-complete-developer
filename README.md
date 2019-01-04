@@ -902,3 +902,24 @@ Welcome to MongoDB!
 
 [$isoWeekYear (aggregation)](https://docs.mongodb.com/manual/reference/operator/aggregation/isoWeekYear/)
 
+[db.UpdateUser()](https://docs.mongodb.com/manual/reference/method/db.updateUser/)
+
+[Manage Users and Roles](https://docs.mongodb.com/manual/tutorial/manage-users-and-roles/)
+
+[Authentication](https://docs.mongodb.com/manual/core/authentication/)
+
+[Configure MongoDB Authentication and Authorization](https://docs.opsmanager.mongodb.com/current/tutorial/edit-host-authentication-credentials/)
+
+[How to Enable Authentication on MongoDB](https://medium.com/mongoaudit/how-to-enable-authentication-on-mongodb-b9e8a924efac)
+
+[How to setup user authentication in MongoDB 3.6](https://medium.com/@matteocontrini/how-to-setup-auth-in-mongodb-3-0-properly-86b60aeef7e8)
+
+[Mongodb enable authentication (Enable Access Control)](https://medium.com/@raj_adroit/mongodb-enable-authentication-enable-access-control-e8a75a26d332)
+
+[How to secure MongoDB with username and password](https://stackoverflow.com/questions/4881208/how-to-secure-mongodb-with-username-and-password)
+
+[Restricting MongoDB access by enabling authentication](https://docs.bmc.com/docs/digitalworkplacebasic/32/restricting-mongodb-access-by-enabling-authentication-627104846.html)
+
+[MongoDB User Authentication (And How to Painlessly Set It Up)](https://studio3t.com/knowledge-base/articles/mongodb-user-authentication/)
+
+[Beyond the Basics 4 MongoDB Security and Authentication](https://www.slideshare.net/mongodb/beyond-the-basics-4-mongodb-security-and-authentication)
