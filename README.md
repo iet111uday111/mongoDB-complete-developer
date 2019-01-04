@@ -1008,4 +1008,19 @@ Welcome to MongoDB!
 
 [MongoDB as windows service and setting up replicaSet](https://stackoverflow.com/questions/17413588/mongodb-as-windows-service-and-setting-up-replicaset)
 
+[ How To Implement Replication Sets in MongoDB on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-implement-replication-sets-in-mongodb-on-an-ubuntu-vps)
 
+[The Basics of Sharding in MongoDB](https://www.vividcortex.com/blog/the-basics-of-sharding-in-mongodb)
+
+[MongoDB - Replication and Sharding Tutorial](https://www.simplilearn.com/replication-and-sharding-mongodb-tutorial-vide)
+
+[Concept of Sharding in MongoDB](https://www.edureka.co/blog/concept-of-sharding-in-mongodb/)
+
+[MongoDB Sharded Cluster - Step by Step Implementation](https://www.guru99.com/mongodb-sharding-implementation.html)
+
+
+[Sharding](http://learnmongodbthehardway.com/schema/sharding/)
+
+[MongoDB](http://learnmongodbthehardway.com/)
+
+[MongoDB Sharding, Replication and Clusters](https://medium.com/@tudip/mongodb-sharding-replication-and-clusters-d95a6595bd2c)
