@@ -736,6 +736,12 @@ Welcome to MongoDB!
 #### MongoDB Security Checklist
 ![Screenshot](./Screenshots/Screenshot214.png?raw=true "Screenshot")
 
+#### Authentication vs Authorization
+![Screenshot](./Screenshots/Screenshot215.png?raw=true "Screenshot")
+
+#### Authentication & Authorization
+![Screenshot](./Screenshots/Screenshot216.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
