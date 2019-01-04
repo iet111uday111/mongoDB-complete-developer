@@ -835,6 +835,12 @@ Welcome to MongoDB!
 #### Transactions
 ![Screenshot](./Screenshots/Screenshot246.png?raw=true "Screenshot")
 
+#### Transactions Pictorial
+![Screenshot](./Screenshots/Screenshot247.png?raw=true "Screenshot")
+
+#### Transactions Mongo Atlas
+![Screenshot](./Screenshots/Screenshot248.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
