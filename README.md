@@ -793,6 +793,20 @@ Welcome to MongoDB!
 #### Capped Collection
 ![Screenshot](./Screenshots/Screenshot233.png?raw=true "Screenshot")
 
+#### Replica Sets I 
+![Screenshot](./Screenshots/Screenshot234.png?raw=true "Screenshot")
+
+#### Replica Set II
+![Screenshot](./Screenshots/Screenshot235.png?raw=true "Screenshot")
+
+#### Replica Set III
+![Screenshot](./Screenshots/Screenshot236.png?raw=true "Screenshot")
+
+#### Why Replica Set
+![Screenshot](./Screenshots/Screenshot237.png?raw=true "Screenshot")
+
+
+
 
 ### IMP Links
 
