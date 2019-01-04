@@ -733,6 +733,9 @@ Welcome to MongoDB!
 #### NumberDecimal with $inc
 ![Screenshot](./Screenshots/Screenshot213.png?raw=true "Screenshot")
 
+#### MongoDB Security Checklist
+![Screenshot](./Screenshots/Screenshot214.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
