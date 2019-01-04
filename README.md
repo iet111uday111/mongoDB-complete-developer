@@ -742,6 +742,8 @@ Welcome to MongoDB!
 #### Authentication & Authorization
 ![Screenshot](./Screenshots/Screenshot216.png?raw=true "Screenshot")
 
+#### Role Based Access Control in MongoDB
+![Screenshot](./Screenshots/Screenshot217.png?raw=true "Screenshot")
 
 ### IMP Links
 
