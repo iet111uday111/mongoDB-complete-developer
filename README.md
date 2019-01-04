@@ -811,6 +811,11 @@ Welcome to MongoDB!
 #### Sharding
 ![Screenshot](./Screenshots/Screenshot238.png?raw=true "Screenshot")
 
+#### How Sharding Works
+![Screenshot](./Screenshots/Screenshot239.png?raw=true "Screenshot")
+
+#### Queries & Sharding
+![Screenshot](./Screenshots/Screenshot240.png?raw=true "Screenshot")
 
 
 
