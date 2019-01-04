@@ -766,6 +766,19 @@ Welcome to MongoDB!
 #### Update a User part III
 ![Screenshot](./Screenshots/Screenshot224.png?raw=true "Screenshot")
 
+#### Transport Encryption
+![Screenshot](./Screenshots/Screenshot225.png?raw=true "Screenshot")
+
+#### Configure mongod and mongos for TLS/SSL  
+![Screenshot](./Screenshots/Screenshot226.png?raw=true "Screenshot")
+
+#### Mongo Server SSL Option
+![Screenshot](./Screenshots/Screenshot227.png?raw=true "Screenshot")
+
+#### Mongo Server with SSL Certificate
+![Screenshot](./Screenshots/Screenshot227.png?raw=true "Screenshot")
+
+
 
 
 ### IMP Links
