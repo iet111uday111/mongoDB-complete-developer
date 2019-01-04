@@ -754,6 +754,8 @@ Welcome to MongoDB!
 #### Authenticate a User 
 ![Screenshot](./Screenshots/Screenshot220.png?raw=true "Screenshot")
 
+#### Authenticate a User for a database 
+![Screenshot](./Screenshots/Screenshot221.png?raw=true "Screenshot")
 
 
 ### IMP Links
