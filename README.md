@@ -776,9 +776,13 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot227.png?raw=true "Screenshot")
 
 #### Mongo Server with SSL Certificate
-![Screenshot](./Screenshots/Screenshot227.png?raw=true "Screenshot")
+![Screenshot](./Screenshots/Screenshot228.png?raw=true "Screenshot")
 
+#### Encryption At Rest
+![Screenshot](./Screenshots/Screenshot229.png?raw=true "Screenshot")
 
+#### Mongo Security Summary
+![Screenshot](./Screenshots/Screenshot230.png?raw=true "Screenshot")
 
 
 ### IMP Links
