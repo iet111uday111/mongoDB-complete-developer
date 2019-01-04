@@ -817,6 +817,12 @@ Welcome to MongoDB!
 #### Queries & Sharding
 ![Screenshot](./Screenshots/Screenshot240.png?raw=true "Screenshot")
 
+#### Deployment a MongoDB Server with web host
+![Screenshot](./Screenshots/Screenshot241.png?raw=true "Screenshot")
+
+#### Deployment a MongoDB Server with Atlas
+![Screenshot](./Screenshots/Screenshot242.png?raw=true "Screenshot")
+
 
 
 ### IMP Links
