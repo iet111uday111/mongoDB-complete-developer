@@ -727,6 +727,12 @@ Welcome to MongoDB!
 #### NumberLong
 ![Screenshot](./Screenshots/Screenshot211.png?raw=true "Screenshot")
 
+#### NumberDecimal
+![Screenshot](./Screenshots/Screenshot212.png?raw=true "Screenshot")
+
+#### NumberDecimal with $inc
+![Screenshot](./Screenshots/Screenshot213.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
