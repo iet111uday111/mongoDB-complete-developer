@@ -923,3 +923,6 @@ Welcome to MongoDB!
 [MongoDB User Authentication (And How to Painlessly Set It Up)](https://studio3t.com/knowledge-base/articles/mongodb-user-authentication/)
 
 [Beyond the Basics 4 MongoDB Security and Authentication](https://www.slideshare.net/mongodb/beyond-the-basics-4-mongodb-security-and-authentication)
+
+[How to Create User in Mongodb & assign Roles](https://www.guru99.com/mongodb-create-user.html)
+
