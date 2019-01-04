@@ -826,6 +826,8 @@ Welcome to MongoDB!
 #### Atlas Dashboard
 ![Screenshot](./Screenshots/Screenshot243.png?raw=true "Screenshot")
 
+#### Connect to MongoDB Atlas from local
+![Screenshot](./Screenshots/Screenshot244.png?raw=true "Screenshot")
 
 
 ### IMP Links
