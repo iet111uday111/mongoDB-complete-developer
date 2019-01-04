@@ -784,6 +784,15 @@ Welcome to MongoDB!
 #### Mongo Security Summary
 ![Screenshot](./Screenshots/Screenshot230.png?raw=true "Screenshot")
 
+#### Performance Fault Tolerancy  DeploymentMongo Security Summary
+![Screenshot](./Screenshots/Screenshot231.png?raw=true "Screenshot")
+
+#### What Influences Performance
+![Screenshot](./Screenshots/Screenshot232.png?raw=true "Screenshot")
+
+#### Capped Collection
+![Screenshot](./Screenshots/Screenshot233.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
@@ -942,4 +951,23 @@ Welcome to MongoDB!
 [Beyond the Basics 4 MongoDB Security and Authentication](https://www.slideshare.net/mongodb/beyond-the-basics-4-mongodb-security-and-authentication)
 
 [How to Create User in Mongodb & assign Roles](https://www.guru99.com/mongodb-create-user.html)
+
+[Capped Collections](https://docs.mongodb.com/manual/core/capped-collections/)
+
+[Capped Collection in MongoDB](https://dzone.com/articles/capped-collection-in-mongodb)
+
+[What is use of capped collection in mongoDB?](https://www.quora.com/What-is-use-of-capped-collection-in-mongoDB)
+
+[Capped Collections In Mongodb](http://www.tothenew.com/blog/capped-collections-in-mongodb/)
+
+[How to create a simple and capped collection in MongoDB](https://www.codevscolor.com/create-simple-capped-collection-mongodb/)
+
+[Learn about Capped Collections in MongoDB](https://blog.eduonix.com/web-programming-tutorials/learn-capped-collections-mongodb/)
+
+[MongoDB get size of Capped collection](https://stackoverflow.com/questions/26272064/mongodb-get-size-of-capped-collection)
+
+[when remove document from capped collection in mongoDB, it through an error?](https://stackoverflow.com/questions/39220280/when-remove-document-from-capped-collection-in-mongodb-it-through-an-error)
+
+[MongoDB Questions and Answers – Capped Collections](https://www.sanfoundry.com/mongodb-questions-answers-capped-collections/)
+
 
