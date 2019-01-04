@@ -724,6 +724,9 @@ Welcome to MongoDB!
 #### Integers, Long & Doubles
 ![Screenshot](./Screenshots/Screenshot210.png?raw=true "Screenshot")
 
+#### NumberLong
+![Screenshot](./Screenshots/Screenshot211.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
