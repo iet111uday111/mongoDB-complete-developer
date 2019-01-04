@@ -805,6 +805,12 @@ Welcome to MongoDB!
 #### Why Replica Set
 ![Screenshot](./Screenshots/Screenshot237.png?raw=true "Screenshot")
 
+#### Why Replica Set
+![Screenshot](./Screenshots/Screenshot237.png?raw=true "Screenshot")
+
+#### Sharding
+![Screenshot](./Screenshots/Screenshot238.png?raw=true "Screenshot")
+
 
 
 
@@ -983,5 +989,18 @@ Welcome to MongoDB!
 [when remove document from capped collection in mongoDB, it through an error?](https://stackoverflow.com/questions/39220280/when-remove-document-from-capped-collection-in-mongodb-it-through-an-error)
 
 [MongoDB Questions and Answers – Capped Collections](https://www.sanfoundry.com/mongodb-questions-answers-capped-collections/)
+
+[Create a MongoDB Replica Set](https://www.linode.com/docs/databases/mongodb/create-a-mongodb-replica-set/)
+
+
+[An Introduction to MongoDB Replication and Replica Sets](https://www.vividcortex.com/blog/an-introduction-to-mongodb-replication-and-replica-sets)
+
+[MongoDB Replica Set Tutorial](https://www.guru99.com/mongodb-replication.html)
+
+[MongoDB Replica set, Oplog and other ghosts that haunt you.](https://codeburst.io/mongodb-replica-set-oplog-and-other-ghosts-that-trouble-you-58158ad3170)
+
+[A Developer’s Guide to MongoDB Replica Sets](https://severalnines.com/blog/developer-s-guide-mongodb-replica-sets)
+
+[MongoDB as windows service and setting up replicaSet](https://stackoverflow.com/questions/17413588/mongodb-as-windows-service-and-setting-up-replicaset)
 
 
