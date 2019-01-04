@@ -823,6 +823,9 @@ Welcome to MongoDB!
 #### Deployment a MongoDB Server with Atlas
 ![Screenshot](./Screenshots/Screenshot242.png?raw=true "Screenshot")
 
+#### Atlas Dashboard
+![Screenshot](./Screenshots/Screenshot243.png?raw=true "Screenshot")
+
 
 
 ### IMP Links
