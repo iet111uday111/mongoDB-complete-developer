@@ -832,6 +832,9 @@ Welcome to MongoDB!
 #### Deployment Summary
 ![Screenshot](./Screenshots/Screenshot245.png?raw=true "Screenshot")
 
+#### Transactions
+![Screenshot](./Screenshots/Screenshot246.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
