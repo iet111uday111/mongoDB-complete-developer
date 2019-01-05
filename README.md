@@ -841,6 +841,9 @@ Welcome to MongoDB!
 #### Transactions Mongo Atlas
 ![Screenshot](./Screenshots/Screenshot248.png?raw=true "Screenshot")
 
+#### Splitting work between Drivers and Shell
+![Screenshot](./Screenshots/Screenshot249.png?raw=true "Screenshot")
+
 
 ### IMP Links
 
