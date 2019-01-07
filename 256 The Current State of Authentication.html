@@ -1,0 +1,18 @@
+<html>
+                <head>
+                <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+                <title>256 The Current State of Authentication</title>
+                </head>
+                <body>
+                <div class="container">
+                <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <p class="lead"><p>With the currently implemented authentication solution, we're NOT taking advantage of Stitch's automatically managed user tokens. Stitch does store the user tokens in the localStorage and it does detect whether a user is logged in (i.e. if such valid tokens can be found in localStorage) upon initialization.</p><p>But we're not using that in our app - instead, we always start off with <code>isAuth: false</code> in <code>App.js</code>.</p><p>You could of course change that!</p><p>You can add an auth listener (<a href="https://s3.amazonaws.com/stitch-sdks/js/docs/4/interfaces/stitchauth.html#addauthlistener" rel="noopener noreferrer" target="_blank">https://s3.amazonaws.com/stitch-sdks/js/docs/4/interfaces/stitchauth.html#addauthlistener</a>) to Stitch in the <code>constructor</code> (or <code>componentDidMount</code>) of App.js:</p><pre class="prettyprint linenums">Stitch.defaultAppClient.auth.addAuthListener(auth =&gt; {
+    this.setState({isAuth: auth.isLoggedIn});
+})</pre></p>
+                </div>
+                </div>
+                </div>
+                <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+                </body>
+                </html>
