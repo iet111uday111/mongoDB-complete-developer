@@ -853,6 +853,11 @@ Welcome to MongoDB!
 #### Authenticate - Mearn Stack
 ![Screenshot](./Screenshots/Screenshot252.png?raw=true "Screenshot")
 
+#### What is Stitch
+![Screenshot](./Screenshots/Screenshot253.png?raw=true "Screenshot")
+
+#### Flow of App using Stitch
+![Screenshot](./Screenshots/Screenshot253.png?raw=true "Screenshot")
 
 
 
