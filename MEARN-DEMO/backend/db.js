@@ -1,8 +1,8 @@
 const mongodb = require('mongodb');
+const config = require('./config');
 
 const MongoClient = mongodb.MongoClient;
-const mongoDbUrl =
-  'mongodb+srv://maximilian:hqG9VedJmagiKhKo@cluster0-ntrwp.mongodb.net/shop?retryWrites=true';
+const mongoDbUrl =config.dbconfig.dburl;
 
 let _db;
 
