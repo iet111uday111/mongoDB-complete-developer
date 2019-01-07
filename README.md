@@ -854,6 +854,8 @@ Welcome to MongoDB!
 ![Screenshot](./Screenshots/Screenshot252.png?raw=true "Screenshot")
 
 
+
+
 ### IMP Links
 
 [What is difference between partial indexes and sparse indexes mongodb?](https://stackoverflow.com/questions/43798252/what-is-difference-between-partial-indexes-and-sparse-indexes-mongodb)
@@ -1065,4 +1067,12 @@ Welcome to MongoDB!
 [MongoDB Atlas — Technical Overview & Benefits](https://medium.com/@nparsons08/mongodb-atlas-technical-overview-benefits-9e4cff27a75e)
 
 [MONGODB ATLAS: WHAT, WHY?](https://optimalbi.com/blog/2018/07/04/mongodb-atlas-what-why/)
+
+
+[MongoDB Stitch — Your Application Backend Delivered as a Service](https://medium.com/@nparsons08/mongodb-stitch-your-application-backend-delivered-as-a-service-7cf21d979ed)
+
+[Building a Serverless App with MongoDB Stitch](https://thecodebarbarian.com/building-a-serverless-app-with-mongodb-stitch.html)
+
+[How to Use MongoDB Stitch in Android Apps](https://code.tutsplus.com/tutorials/how-to-use-mongodb-stitch-in-android-apps--cms-31877)
+
 
